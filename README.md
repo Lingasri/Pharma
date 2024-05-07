@@ -382,10 +382,14 @@ CONTACT.HTML
 
 
 ## OUTPUT:
-![alt text](I.png)
-![alt text](J.png)
-![alt text](K.png)
-![alt text](<L copy.png>)
+![image](https://github.com/Lingasri/Pharma/assets/143391929/23f8ee37-fce3-4453-880c-bd1e70abe28b)
+![image](https://github.com/Lingasri/Pharma/assets/143391929/d6f52c61-a793-4d7a-928f-5b5a7db43b5d)
+![image](https://github.com/Lingasri/Pharma/assets/143391929/94e8da8b-f6a8-4dc0-9062-ad6c43c1ea13)
+![image](https://github.com/Lingasri/Pharma/assets/143391929/bb2c01a8-413c-4bee-9bf5-97e45fdf47c5)
+
+
+
+
 
 
 ## RESULT:
